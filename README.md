@@ -14,6 +14,6 @@
 - [极市:ECCV 2018 | OR-CNN行人检测：为‘遮挡’而生](http://www.cvmart.net/community/article/detail/351)
 - [极市:ECCV 2018 | Bi-box行人检测：‘行人遮挡’为几何？](http://www.cvmart.net/community/article/detail/358)
 
-# open source platform and code
+### open source platform and code
 
 - [Github:基于深度学习的自动化行人检测（人体检测）和监控（视频监控）系统。](https://github.com/zhangpengpengpeng/PedestrianDetectionSystem)
