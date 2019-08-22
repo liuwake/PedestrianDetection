@@ -17,3 +17,10 @@
 ### open source platform and code
 
 - [Github:基于深度学习的自动化行人检测（人体检测）和监控（视频监控）系统。](https://github.com/zhangpengpengpeng/PedestrianDetectionSystem)
+
+## 算法
+
+### 传统
+
+#### HOG
+- [HOG特征——行人识别](https://www.jianshu.com/p/ed21c357ec12)
